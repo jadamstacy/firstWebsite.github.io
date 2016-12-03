@@ -1,6 +1,9 @@
 .boxed {
     border: 3px solid black;
 }
+.boxes {
+    border: 3px solid purple;
+}
 a.button {
     line-height: 180%;
     padding: 2px;
